@@ -1,0 +1,266 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Work",
+      "notes": [
+        {
+          "id": "86679a44-17d5-41d2-a304-cab48722bf17",
+          "title": "Finish the test project",
+          "text": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+        },
+        {
+          "id": "9f702b59-b641-4af2-869a-6e47fd6840ad",
+          "title": "Test application",
+          "text": "test the app and see if it works, changing the text"
+        },
+        {
+          "id": "6e7e15d8-3b29-44d1-a78e-b8fe97b29592",
+          "title": "Yet another note",
+          "text": "The resolution is 1366 x 768"
+        },
+        {
+          "id": "005db07c-6b31-4ef6-bc7b-2d3c3a34757f",
+          "title": "testing for the last time",
+          "text": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Personal",
+      "notes": [
+        {
+          "id": 2,
+          "title": "Buy groceries",
+          "text": "Buy groceries"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Health",
+      "notes": [
+        {
+          "id": 3,
+          "title": "Exercise",
+          "text": "Exercise"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Study",
+      "notes": [
+        {
+          "id": 4,
+          "title": "Read books",
+          "text": "Read books"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Finance",
+      "notes": [
+        {
+          "id": 5,
+          "title": "Budget planning",
+          "text": "Budget planning"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Family",
+      "notes": [
+        {
+          "id": 6,
+          "title": "Call parents",
+          "text": "Call parents"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Travel",
+      "notes": [
+        {
+          "id": 7,
+          "title": "Book flight tickets",
+          "text": "Book flight tickets"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Hobbies",
+      "notes": [
+        {
+          "id": 8,
+          "title": "Painting",
+          "text": "Painting"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Social",
+      "notes": [
+        {
+          "id": 9,
+          "title": "Meet friends",
+          "text": "Meet friends"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Home",
+      "notes": [
+        {
+          "id": 10,
+          "title": "Clean the house",
+          "text": "Clean the house"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Skills",
+      "notes": [
+        {
+          "id": 11,
+          "title": "Learn new language",
+          "text": "Learn new language"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Music",
+      "notes": [
+        {
+          "id": 12,
+          "title": "Practice piano",
+          "text": "Practice piano"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Pets",
+      "notes": [
+        {
+          "id": 13,
+          "title": "Walk the dog",
+          "text": "Walk the dog"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Projects",
+      "notes": [
+        {
+          "id": 14,
+          "title": "Start new project",
+          "text": "Start new project"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Career",
+      "notes": [
+        {
+          "id": 15,
+          "title": "Update resume",
+          "text": "Update resume"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Art",
+      "notes": [
+        {
+          "id": 16,
+          "title": "Visit art gallery",
+          "text": "Visit art gallery"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Movies",
+      "notes": [
+        {
+          "id": 17,
+          "title": "Watch movie",
+          "text": "Watch movie"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Books",
+      "notes": [
+        {
+          "id": 18,
+          "title": "Read novel",
+          "text": "Read novel"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Sports",
+      "notes": [
+        {
+          "id": 19,
+          "title": "Play basketball",
+          "text": "Play basketball"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Gaming",
+      "notes": [
+        {
+          "id": 20,
+          "title": "Play video game",
+          "text": "Play video game"
+        }
+      ]
+    },
+    {
+      "id": "fd7d",
+      "name": "new Category",
+      "notes": []
+    },
+    {
+      "id": "a72a",
+      "name": "another new category",
+      "notes": [
+        {
+          "id": "6038a708-5ab4-49c1-9bbc-6c009fc666c9",
+          "title": "There are many variations",
+          "text": "of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary,"
+        }
+      ]
+    },
+    {
+      "id": "f642",
+      "name": "New Category 2",
+      "notes": [
+        {
+          "id": "ff647f3f-ee3e-43ff-b5a2-8eec21aca47f",
+          "title": "does it work",
+          "text": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum"
+        }
+      ]
+    }
+  ]
+}
