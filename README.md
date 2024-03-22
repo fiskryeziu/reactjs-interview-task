@@ -1,38 +1,25 @@
-# Flex Business Solutions Tech Test - Notes app
+## 📌 Overview
 
-In Flex Business Solutions, we aim to provide excellence and efficiency on all our lines of code in order to support the day-to-day activities of the company using our software solutions. In this task, you will be provided with a simple design of an app, fetching a list of products from an external source and allowing the user to search or filter among the list.
+The reactjs-interview-task project utilizes essential dependencies like react, react-router-dom, typescript, tailwindcss, jest for testing, and Vite for development.
+
+## ⚙️ Setting Up
+
+## 🚀 Run Locally
+1.Clone the reactjs-interview-task repository:
+```sh
+git clone https://github.com/fiskryeziu/reactjs-interview-task
+```
+2.Install the dependencies with one of the package managers listed below:
+```bash
+npm install
+```
+3.Start the development mode:
+```bash
+npm run dev
+```
+4.Start mock server (json-server)
+```bash
+npm run server
+```
 
 
-### Tech Test Overview
-We have provided below the Figma link of this task. On the main page,
-
-[FIGMA] [https://www.figma.com/file/T6hUVUDh5ihoYwQILcJDcf/React-Home-Test?type=design&node-id=0%3A1&mode=design&t=lOTjaPb3chxGqXkY-1]
-
-We love to see:
-- Functional code
-- Good design
-- Unit testing
-
-
-### Notes
-All of you work should take place inside this repository.
-
-You are free to use any packages that would help with this task
-
-You do not need to add additional security measures as part of this exercise.
-We're interested in how you break down the work and build your solution in a clean, easy-to-use, reusable and testable manner.
-
-
-## Deliverables
-You must follow the Figma design and need to add the functionality of:
-a) Create new notes
-c) Show all notes
-b) Search notes
-
-**Create a folder inside the repository and include finished screenshots of the app.**
-**Please make sure to update the readme with**:
-
-- How to run your app with all the necessary details
-- Relating to the task please add answers to the following questions;
-    1. How might you make this app more secure?
-    2. How would you make this solution scale to millions of records?
